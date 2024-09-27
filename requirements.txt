@@ -1,0 +1,4 @@
+python-dotenv
+requests
+rocketchat_API
+ollama
