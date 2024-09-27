@@ -1,4 +1,4 @@
-# Rocket App
+# RocketChat Bots
 
 This repository contains multiple bots designed to integrate with Rocket.Chat. Follow the instructions below to install dependencies and run the services.
 
